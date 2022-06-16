@@ -26,3 +26,5 @@ function solutionTask1(arr) {
 
   return n + 1;
 }
+
+// Space complexity: O(1), Time Complexity: O(n)
